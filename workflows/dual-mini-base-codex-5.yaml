@@ -1,5 +1,5 @@
 name: dual-mini-base-codex-5
-description: フロントエンド＋バックエンド向けMini開発ワークフロー（plan → implement → 並列レビュー → 修正 → 完了）。フロントエンド＋バックエンドのナレッジ注入付き。
+description: ECCUBE向けのフロントエンド＋バックエンド向けMini開発ワークフロー（plan → implement → 並列レビュー → 修正 → 完了）。Claudeでコーディング、その他はCodexで行います。
 workflow_config:
   provider_options:
     codex:
